@@ -24,17 +24,6 @@ const App = () => {
         <Route path="/hero" element={<Hero />} />
         
       </Routes>
-
-
-
-
-      
-
-
-
-
-      
-  
     </>
   );
 };
