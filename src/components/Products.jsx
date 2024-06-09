@@ -23,17 +23,22 @@ const Products = () => {
     <div class="flex flex-wrap -m-4">
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full ">
         <a class="block relative h-48 rounded overflow-hidden">
-          <iframe class="object-cover object-center w-full h-full block" width="390" height="360" src="https://www.youtube.com/embed/ofoGxcp7PDs" title="Hero Animator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="object-cover object-center w-full h-full block" width="611" height="343" src="https://www.youtube.com/embed/adbpm2I1yPY" title="Slipmation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">YouTube</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Animator</h2>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Slipmation</h2>
          
         </div>
+        
       </div>
+
+      
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-        <iframe class="object-cover object-center w-full h-full block"  width="315" height="560" src="https://www.youtube.com/embed/3swsPFlJDwI" title="Black mafia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="object-cover object-center w-full h-full block" width="611" height="343" src="https://www.youtube.com/embed/sPwCIugdI2M" title="Electrozart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Shorts</h3>
@@ -68,18 +73,21 @@ const Products = () => {
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+        
         <a class="block relative h-48 rounded overflow-hidden">
-        <iframe class="object-cover object-center w-full h-full block" width="611" height="343" src="https://www.youtube.com/embed/adbpm2I1yPY" title="Slipmation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="object-cover object-center w-full h-full block" width="390" height="360" src="https://www.youtube.com/embed/ofoGxcp7PDs" title="Hero Animator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">YouTube</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">Slipmation
+          <h2 class="text-gray-900 title-font text-lg font-medium">Animator
 </h2>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-        <iframe class="object-cover object-center w-full h-full block" width="611" height="343" src="https://www.youtube.com/embed/sPwCIugdI2M" title="Electrozart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe class="object-cover object-center w-full h-full block"  width="315" height="560" src="https://www.youtube.com/embed/3swsPFlJDwI" title="Black mafia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">YouTube</h3>
